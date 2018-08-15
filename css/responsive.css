@@ -1,0 +1,61 @@
+@media only screen and (max-width: 767px) {
+
+/*SUPERSLIDES*/
+.main {
+	font-size: 30px;
+}
+
+.sub {
+	font-size: 15px;
+}
+
+.slides-navigation a.prev,
+.slides-navigation a.next {
+	display: none;
+}
+
+/*GENERAL*/
+.sec {
+	padding: 50px 0;
+}
+
+p {
+	font-weight: 300;
+	font-size: 13px;
+}
+
+h2 {
+	font-weight: 400;
+	font-size: 25px;
+}
+
+/*ABOUT*/
+.aboutImage {
+	max-width: 100%;
+	padding-top: 20px;
+	padding-left: 0px;
+}
+
+/*SKILLS*/
+.skill h4{
+	margin-top: 20px;
+	font-size: 22px;
+}
+
+.skill p {
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+/*STATS*/
+.squareContent h3 {
+	font-size: 13px;
+}
+
+/*FOOTER*/
+.copyrightSec p {
+	margin: 0 auto;
+	text-align: center;
+}
+
+}
